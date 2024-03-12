@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vasundharakaleru04.git/static/css/main.628e3091.css",
+    "main.js": "/Vasundharakaleru04.git/static/js/main.bd031586.js",
+    "static/js/453.701bfca2.chunk.js": "/Vasundharakaleru04.git/static/js/453.701bfca2.chunk.js",
+    "index.html": "/Vasundharakaleru04.git/index.html",
+    "main.628e3091.css.map": "/Vasundharakaleru04.git/static/css/main.628e3091.css.map",
+    "main.bd031586.js.map": "/Vasundharakaleru04.git/static/js/main.bd031586.js.map",
+    "453.701bfca2.chunk.js.map": "/Vasundharakaleru04.git/static/js/453.701bfca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.bd031586.js"
+  ]
+}
